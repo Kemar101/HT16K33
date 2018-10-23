@@ -4,10 +4,13 @@
 With my current standing I am on schedule 
 # Current Progress:
 If continue with my current progress I will be meeting the objective that was defined in my proposal
+<img src="https://github.com/Kemar101/HT16K33/blob/master/PHOTO-2018-10-23-12-34-46.jpg" width="100" />
 # Problems/opportunities:
 A potential problem that I would have at this time, would be the time it would take to do my fritzing diagram since i have multiple devices. I would need to finish it ASAP to continue being on track with my project.
+
 # Financial update:
 There was an additional purchase 
+<img src="https://github.com/Kemar101/HT16K33/blob/master/PHOTO-2018-10-23-13-23-38.jpg" width="100" />
 # Link
 https://www.rototron.info/wp-content/uploads/PiSpectrum04.jpg
 
