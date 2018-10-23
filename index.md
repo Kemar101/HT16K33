@@ -11,6 +11,8 @@ A potential problem that I would have at this time, would be the time it would t
 There was an additional purchase of a bidirection level shifter
 <img src="https://github.com/Kemar101/HT16K33/blob/master/PHOTO-2018-10-23-13-23-38.jpg" width="100" />
 # Link
+These are the links use to help me with my wiring and I will used to help with project
+https://www.rototron.info/raspberry-pi-spectrum-analyzer/
 https://www.rototron.info/wp-content/uploads/PiSpectrum04.jpg
 # Proof of payment 
 
