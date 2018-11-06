@@ -1,3 +1,6 @@
+# November 6th, 2018 (Week 10)
+Today is the PCB soldered milestone 
+
 # Oct 23, 2018
 
 # Activity
