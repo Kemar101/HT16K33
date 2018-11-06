@@ -1,5 +1,5 @@
 # November 6th, 2018 (Week 10)
-Today is the PCB soldered milestone allot have changed. I was planning to use and [16x8 HT16K33](https://www.adafruit.com/product/1427)
+Today is the PCB soldered milestone allot have changed. I was planning to use the [16x8 HT16K33](https://www.adafruit.com/product/1427) with [4-channel I2C-safe Bi-directional Logic Level Converter ](https://www.adafruit.com/product/757) to create a really cool multidirection display. I can to realize that it was talking up too much time getting it to work. So I desided to use [Keyestudio 8x8 Dot Matrix Module ](http://www.keyestudio.com/ks0336.html)
 
 # Oct 23, 2018
 
