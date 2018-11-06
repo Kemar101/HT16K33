@@ -1,5 +1,5 @@
 # November 6th, 2018 (Week 10)
-Today is the PCB soldered milestone 
+Today is the PCB soldered milestone allot have changed. I was planning to use and [16x8 HT16K33](https://www.adafruit.com/product/1427)
 
 # Oct 23, 2018
 
