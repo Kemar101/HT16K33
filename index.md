@@ -2,7 +2,8 @@
 # Activity
 Today is the PCB soldered milestone allot have changed. I was planning to use the [16x8 HT16K33](https://www.adafruit.com/product/1427) with [4-channel I2C-safe Bi-directional Logic Level Converter ](https://www.adafruit.com/product/757) to create a really cool multidirection display. I can to realize that it was talking up too much time getting it to work. So I desided to use [Keyestudio 8x8 Dot Matrix Module ](http://www.keyestudio.com/ks0336.html).
 # Current Progress:
-I am currently on track. Todays class i was able to get the pcb bored solderer to my header and set up on my pie
+I am currently on track. Todays class I was able to get the PCB bored solderer to my header and set up on my pie.
+Thank fully vlad at the proto-type lab gave me headers so no extra purchase was needed
 <img src="https://raw.githubusercontent.com/Kemar101/HT16K33/master/20181106_132920.jpg" width="100" />
 <img src="https://raw.githubusercontent.com/Kemar101/HT16K33/master/20181106_145005.jpg" width="100" />
 # Financial update:
