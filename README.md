@@ -1,7 +1,7 @@
 # HT16K33
 ## Table of Contents
 1. [Introduction](#introduction)
-2. [Bill of Materials/Budget](#bill-of-Materials/-Budget)
+2. [Bill of Materials/Budget](#bill-of-Materials-and-Budget)
 3. [Time Commitment](#time-Commitment)
 4. [Mechanical Assembly](#mechanical-Assembly)
 5. [PCB / Soldering](#pCB-Soldering)
@@ -11,13 +11,13 @@
 
 # Introduction
 
-# Bill of Materials/Budget
+# Bill of Materials and Budget
 
 # Time Commitment
 
 # Mechanical Assembly
 
-# PCB / Soldering
+# PCB and Soldering
 
 # Power Up
 
