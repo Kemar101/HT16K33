@@ -4,7 +4,7 @@
 2. [Bill of Materials/Budget](#bill-of-Materials-and-Budget)
 3. [Time Commitment](#time-Commitment)
 4. [Mechanical Assembly](#mechanical-Assembly)
-5. [PCB / Soldering](#pCB-Soldering)
+5. [PCB and Soldering](#pCB-and-Soldering)
 6. [Power Up](#power-Up)
 7. [Unit Testing](#unit-Testing)
 8. [Production Testing](#production-Testing)
