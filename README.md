@@ -27,6 +27,27 @@
 <img src="https://raw.githubusercontent.com/Kemar101/HT16K33/master/i2cdetect.JPG" width="500" />
 
 # Unit Testing
+Command: sudo apt-get update
+
+Command: sudo apt-get install build-essential python-dev
+
+Command: sudo apt-get install python-smbus
+
+You need the Python Imaging Library (PIL) which adds image processing capabilities to your Python interpreter.
+
+Command: sudo apt-get python-imaging
+
+After executing the four commands above now you have to install the Adafruit Python LED Backpack.
+
+Step 1: Create a folder in your home directory (/pi/home/) with the name “led”.
+
+Step 2: Download the Adafruit Python LED Backpack with the following command.
+
+Command: sudo git clone https://github.com/adafruit/Adafruit_Python_LED_Backpack.git
+
+After successfully downloading the library go into the led folder “/home/pi/led/Adafruit_Python_LED_Backpack” and execute the following command to install the library on your Raspberry Pi
+
+Command: sudo python setup.py install
 <img src="https://raw.githubusercontent.com/Kemar101/HT16K33/master/display.jpg" width="500" />
 
 # Production Testing
