@@ -17,6 +17,7 @@
 
 # Mechanical Assembly
 <img src="https://raw.githubusercontent.com/Kemar101/HT16K33/master/fullc.jpg" width="500" />
+
 # PCB and Soldering
 <img src="https://raw.githubusercontent.com/Kemar101/HT16K33/master/Capture.JPG" width="500" />
 <img src="https://raw.githubusercontent.com/Kemar101/HT16K33/master/sm1.jpg" width="500" />
