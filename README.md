@@ -17,6 +17,7 @@ For the material you can buy the [Adafruit Small 1.2" 8x8 LED Matrix w/I2C Backp
 [Keyestudio 8x8 Dot Matrix Module (3PCS)](http://www.keyestudio.com/ks0336.html) would recommend the keyestudio because you get 3 for the price of 1 so if you make a mistake you have 2 more.
 
 <img src="https://raw.githubusercontent.com/Kemar101/HT16K33/master/led.jpg" width="300" />
+
 We also purchase a 
 [CanaKit Raspberry Pi 3 B+ Starter Kit with 32GB Micro SD Cards and Premium Black Case](https://www.amazon.com/CanaKit-Raspberry-Starter-Premium-Black/dp/B07BCC8PK7/ref=sr_1_1?s=pc&ie=UTF8&qid=1544482698&sr=1-1)
 
