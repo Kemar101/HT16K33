@@ -14,7 +14,8 @@ This is a single interface board on a raspberry pi 3 that is accesed using vnc o
 
 # Bill of Materials and Budget
 For the material you can buy the [Adafruit Small 1.2" 8x8 LED Matrix w/I2C Backpack - Red](https://www.adafruit.com/product/1049) or the 
-[Keyestudio 8x8 Dot Matrix Module (3PCS)](http://www.keyestudio.com/ks0336.html) would recommend the keyestudio because you get 3 for the price of 1 so if you make a mistake you have 2 more
+[Keyestudio 8x8 Dot Matrix Module (3PCS)](http://www.keyestudio.com/ks0336.html) would recommend the keyestudio because you get 3 for the price of 1 so if you make a mistake you have 2 more.
+
 <img src="https://raw.githubusercontent.com/Kemar101/HT16K33/master/led.jpg" width="300" />
 We also purchase a 
 [CanaKit Raspberry Pi 3 B+ (B Plus) Starter Kit (32 GB EVO+ Edition, Premium Black Case)](https://www.amazon.com/dp/B07BCC8PK7?aaxitk=VJ0x-KEWwd4MELp4ZjU-PA&pd_rd_i=B07BCC8PK7&pf_rd_p=3ff6092e-8451-438b-8278-7e94064b4d42&hsa_cr_id=2799715720501&sb-ci-n=productDescription&sb-ci-v=CanaKit%20Raspberry%20Pi%203%20B%2B%20(B%20Plus)%20Starter%20Kit%20(32%20GB%20EVO%2B%20Edition%2C%20Premium%20Black%20Case))
