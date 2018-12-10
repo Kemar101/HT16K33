@@ -11,7 +11,7 @@
 
 # Introduction
 
-# Bill of Materials/Budget
+# Bill of Materials and Budget
 
 # Time Commitment
 
