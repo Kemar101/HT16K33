@@ -19,6 +19,13 @@ Can buy the [Adafruit Small 1.2" 8x8 LED Matrix w/I2C Backpack - Red](https://ww
 [CanaKit Raspberry Pi 3 B+ (B Plus) Starter Kit (32 GB EVO+ Edition, Premium Black Case)](https://www.amazon.com/dp/B07BCC8PK7?aaxitk=VJ0x-KEWwd4MELp4ZjU-PA&pd_rd_i=B07BCC8PK7&pf_rd_p=3ff6092e-8451-438b-8278-7e94064b4d42&hsa_cr_id=2799715720501&sb-ci-n=productDescription&sb-ci-v=CanaKit%20Raspberry%20Pi%203%20B%2B%20(B%20Plus)%20Starter%20Kit%20(32%20GB%20EVO%2B%20Edition%2C%20Premium%20Black%20Case))
 <img src="https://raw.githubusercontent.com/Kemar101/HT16K33/master/pie.jpg" width="500" />
 
+| Parts | Price|
+| --- | --- |
+| LED | $9.99 |
+| Pi3| $79.99 |
+| Total | $89.98 |
+
+
 # Time Commitment
 
 # Mechanical Assembly
