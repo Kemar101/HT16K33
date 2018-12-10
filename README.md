@@ -18,7 +18,7 @@
 # Mechanical Assembly
 
 # PCB and Soldering
-<img src="https://raw.githubusercontent.com/Kemar101/HT16K33/master/PHOTO-2018-10-23-12-34-46.jpg" width="100" />
+<img src="https://raw.githubusercontent.com/Kemar101/HT16K33/master/Capture.JPG" width="100" />
 # Power Up
 <img src="https://raw.githubusercontent.com/Kemar101/HT16K33/master/PHOTO-2018-10-23-12-34-46.jpg" width="100" />
 # Unit Testing
