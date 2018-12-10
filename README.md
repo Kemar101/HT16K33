@@ -10,6 +10,7 @@
 8. [Production Testing](#production-Testing)
 
 # Introduction
+This is a single interface board on a raspberry pi 3 that is accesed using vnc or hdmi with tv and keyboard. we solder a pcb board so that we avoid the hassle of wireing makeing the project more clean.
 
 # Bill of Materials and Budget
 Can buy the [Adafruit Small 1.2" 8x8 LED Matrix w/I2C Backpack - Red](https://www.adafruit.com/product/1049) or the 
