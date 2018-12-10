@@ -19,6 +19,13 @@
 <img src="https://raw.githubusercontent.com/Kemar101/HT16K33/master/fullc.jpg" width="500" />
 
 # PCB and Soldering
+| HT16K33 | Raspberry Pi |
+| --- | --- |
+| GND | Pin-06 |
+| Vcc | Pin-01(3.3V) Can also use Pin 02(5V)|
+| SDA | Pin-03(I2C SDA) |
+| SCL | Pin-05(I2C SCL) |
+
 <img src="https://raw.githubusercontent.com/Kemar101/HT16K33/master/Capture.JPG" width="500" />
 <img src="https://raw.githubusercontent.com/Kemar101/HT16K33/master/sm1.jpg" width="500" />
 <img src="https://raw.githubusercontent.com/Kemar101/HT16K33/master/sm2.jpg" width="500" />
