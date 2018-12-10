@@ -12,6 +12,7 @@
 # Introduction
 
 # Bill of Materials and Budget
+<img src="https://raw.githubusercontent.com/Kemar101/HT16K33/master/led.jpg" width="500" />
 
 # Time Commitment
 
