@@ -17,7 +17,8 @@ For the material you can buy the [Adafruit Small 1.2" 8x8 LED Matrix w/I2C Backp
 [Keyestudio 8x8 Dot Matrix Module (3PCS)](http://www.keyestudio.com/ks0336.html) would recommend the keyestudio because you get 3 for the price of 1 so if you make a mistake you have 2 more.
 
 <img src="https://raw.githubusercontent.com/Kemar101/HT16K33/master/led.jpg" width="300" />
-We also purchase a [CanaKit Raspberry Pi 3 B+ Starter Kit with 32GB Micro SD Cards and Premium Black Case](https://www.amazon.com/CanaKit-Raspberry-Starter-Premium-Black/dp/B07BCC8PK7/ref=sr_1_1?s=pc&ie=UTF8&qid=1544482698&sr=1-1)
+We also purchase a 
+[CanaKit Raspberry Pi 3 B+ Starter Kit with 32GB Micro SD Cards and Premium Black Case](https://www.amazon.com/CanaKit-Raspberry-Starter-Premium-Black/dp/B07BCC8PK7/ref=sr_1_1?s=pc&ie=UTF8&qid=1544482698&sr=1-1)
 
 <img src="https://raw.githubusercontent.com/Kemar101/HT16K33/master/pie.jpg" width="300" />
 Will also need some header for your sensor and the raspberry pi[Adafruit GPIO Header for Raspberry Pi A+/B+ - 2x20 Female Header [ADA2222]](https://www.amazon.com/Adafruit-GPIO-Header-Raspberry-Pi/dp/B00XW2NK1Y/ref=sr_1_10?ie=UTF8&qid=1544481444&sr=8-10&keywords=40+pin+header+raspberry+pi) and [header](https://www.amazon.ca/Gikfun-2-54mm-Stackable-Female-Arduino/dp/B0154KMHE2/ref=sr_1_4?ie=UTF8&qid=1544481861&sr=8-4&keywords=6+pin+header) for the HT16K33 sensor.
