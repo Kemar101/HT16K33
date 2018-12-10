@@ -45,6 +45,7 @@ Can buy the [Adafruit Small 1.2" 8x8 LED Matrix w/I2C Backpack - Red](https://ww
 <img src="https://raw.githubusercontent.com/Kemar101/HT16K33/master/sm2.jpg" width="500" />
 
 # Power Up
+<img src="https://raw.githubusercontent.com/Kemar101/HT16K33/master/spcb.jpg" width="500" />
 <img src="https://raw.githubusercontent.com/Kemar101/HT16K33/master/i2cdetect.JPG" width="500" />
 
 # Unit Testing
