@@ -48,6 +48,13 @@ Command: sudo git clone https://github.com/adafruit/Adafruit_Python_LED_Backpack
 After successfully downloading the library go into the led folder “/home/pi/led/Adafruit_Python_LED_Backpack” and execute the following command to install the library on your Raspberry Pi
 
 Command: sudo python setup.py install
+
+To execute the Adafruit LED test example go into the folder “/home/pi/led/Adafruit_Python_LED_Backpack/example” and execute the “matrix8x8_test.py” program if the I2C address is correct for your LED matrix.
+
+Command: python matrix8x8_test.py
+
+The program should activate the LED’s and show a X with a frame on the LED matrix at the end.
+
 <img src="https://raw.githubusercontent.com/Kemar101/HT16K33/master/display.jpg" width="500" />
 
 # Production Testing
