@@ -52,8 +52,14 @@ Will also need some header for your sensor and the raspberry pi[Adafruit GPIO He
 <img src="https://raw.githubusercontent.com/Kemar101/HT16K33/master/sm2.jpg" width="500" />
 
 # Power Up
-After connecting 
+After Setting up the pcb should look something like this
+
 <img src="https://raw.githubusercontent.com/Kemar101/HT16K33/master/spcb.JPG" width="500" />
+
+your going to connect to the pi and run the 
+Command sudo i2cdetect -y 1
+this shows the raspberry pi detect the address and eveything is working
+
 <img src="https://raw.githubusercontent.com/Kemar101/HT16K33/master/i2cdetect.JPG" width="500" />
 
 # Unit Testing
