@@ -25,9 +25,9 @@ Will also need some header for your sensor and the raspberry pi[Adafruit GPIO He
 | --- | --- |
 | LED | $9.99 |
 | Pi3| $79.99 |
-| Pi3 header| $79.99 |
+| Pi3 header| $5.73 |
 | Sensor header| $7.22 |
-| Total | $89.98 |
+| Total | $102.93 |
 
 
 # Time Commitment
