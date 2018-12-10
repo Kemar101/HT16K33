@@ -9,18 +9,18 @@
 7. [Unit Testing](#unit-Testing)
 8. [Production Testing](#production-Testing)
 
-#Introduction
+# Introduction
 
-#Bill of Materials/Budget
+# Bill of Materials/Budget
 
-#Time Commitment
+# Time Commitment
 
-#Mechanical Assembly
+# Mechanical Assembly
 
-#PCB / Soldering
+# PCB / Soldering
 
-#Power Up
+# Power Up
 
-#Unit Testing
+# Unit Testing
 
-#Production Testing
+# Production Testing
