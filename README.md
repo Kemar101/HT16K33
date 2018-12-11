@@ -13,7 +13,7 @@
 8. [Production Testing](#production-Testing)
 
 # Introduction
-This is a single interface board LED Display on a raspberry pi 3 that is accesed using vnc or hdmi with tv and keyboard. Would recommend the vnc this allow you to access the pi anywhere and on any pc. Here is a [Link for VNC setup](https://www.realvnc.com/en/connect/docs/get-connected.html) to establishing a direct connection over a local network (LAN or VPN). Also [Link for VNC Viewer](https://www.realvnc.com/en/connect/download/viewer/) that is needed for the setup. We solder a pcb board so that we avoid the hassle of wireing making the project more clean organize and portable. One software used was [Fritzing](http://fritzing.org/download/)for designing the pcb board. Along with [CorelDRAW](https://www.coreldraw.com/en/free-trials/?sourceid=cdgs2018-xx-ppc_brkws&x-vehicle=ppc_brkws&gclid=EAIaIQobChMIo4-G86WW3wIVCZNpCh32gAfJEAAYASABEgI-zfD_BwE) free 15day trial. This is used for our box case, can also use [autoCAD](https://www.autodesk.ca/en/products/autocad/free-trial) free 30 day trial.
+This is a single interface board LED Display on a raspberry pi 3 that is accesed using vnc or hdmi with tv and keyboard. Would recommend the vnc this allow you to access the pi anywhere and on any pc. Here is a [Link for VNC setup](https://www.realvnc.com/en/connect/docs/get-connected.html) to establishing a direct connection over a local network (LAN or VPN). Also [Link for VNC Viewer](https://www.realvnc.com/en/connect/download/viewer/) that is needed for the setup. We solder a pcb board so that we avoid the hassle of wireing making the project more clean organize and portable. One software used was [Fritzing](http://fritzing.org/download/)for designing the pcb board. Along with [CorelDRAW](https://www.coreldraw.com/en/free-trials/?sourceid=cdgs2018-xx-ppc_brkws&x-vehicle=ppc_brkws&gclid=EAIaIQobChMIo4-G86WW3wIVCZNpCh32gAfJEAAYASABEgI-zfD_BwE) free 15day trial. This is used for our box case, can also use [autoCAD](https://www.autodesk.ca/en/products/autocad/free-trial) free 30 day trial. You will also need and operating system for the raspberry pi download [here](https://www.raspberrypi.org/downloads/raspbian/). To extract the image for the pi a recommended software is [Win32 Disk Imager](https://sourceforge.net/projects/win32diskimager/).Attach[here](https://www.raspberrypi.org/documentation/installation/installing-images/README.md) is the Installing operating system images guide for installing on a sd card.
 
 # Bill of Materials and Budget
 For the material you can buy the [Adafruit Small 1.2" 8x8 LED Matrix w/I2C Backpack - Red](https://www.adafruit.com/product/1049) or the 
@@ -22,7 +22,7 @@ For the material you can buy the [Adafruit Small 1.2" 8x8 LED Matrix w/I2C Backp
 <img src="https://raw.githubusercontent.com/Kemar101/HT16K33/master/led.jpg" width="300" />
 
 We also purchase a 
-[CanaKit Raspberry Pi 3 B+ Starter Kit with 32GB Micro SD Cards and Premium Black Case](https://www.amazon.com/CanaKit-Raspberry-Starter-Premium-Black/dp/B07BCC8PK7/ref=sr_1_1?s=pc&ie=UTF8&qid=1544482698&sr=1-1)
+[CanaKit Raspberry Pi 3 B+ Starter Kit with 32GB Micro SD Cards and Premium Black Case](https://www.amazon.com/CanaKit-Raspberry-Starter-Premium-Black/dp/B07BCC8PK7/ref=sr_1_1?s=pc&ie=UTF8&qid=1544482698&sr=1-1) this came with a sd card that we use to add the os.
 
 <img src="https://raw.githubusercontent.com/Kemar101/HT16K33/master/pie.jpg" width="300" />
 
