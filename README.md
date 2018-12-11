@@ -42,12 +42,13 @@ is a good place to buy your Acrylic sheets from, they also do cutting.
 
 
 # Time Commitment
-The time it would take to recreate this project will vary. Ordering the parts can take days if not weeks. Also finding a store to a buy and cut the acrylic for you along with a store to make the pcb board. Considering you have all the parts needed along with your arylic case cut and pcb board, this project can be made over a weekend.
+The time it would take to recreate this project will vary. Ordering the parts can take days if not weeks. Also finding a store to a buy and cut the acrylic for you along with a store to make the pcb board. Considering you have all the parts needed along with your acrylic case cut and pcb board, this project can be made over a weekend.
 
 # Mechanical Assembly
 <img src="https://raw.githubusercontent.com/Kemar101/HT16K33/master/fullc.jpg" width="300" />
 
-Attach [here](https://github.com/Kemar101/HT16K33/blob/master/kemar2.cdr) is a link to the CoralDraw file for the box
+Attach [here](https://github.com/Kemar101/HT16K33/blob/master/kemar2.cdr) is a link to the CorelDraw file for the case
+After obtaining the corel file and finding a company to lazer cut assemblying the case is simple. The case on it own snaps into place and can be disassemble and reassemble eazy. The raspberry pi can sit in the case or can be screwed down at the bottom.
 
 
 
