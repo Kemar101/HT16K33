@@ -104,4 +104,4 @@ The program should activate the LED’s and show a X with a frame on the LED mat
 <img src="https://raw.githubusercontent.com/Kemar101/HT16K33/master/display.jpg" width="500" />
 
 # Production Testing
-In order to mass produce this project I would try and buy every thing in bulk. For example instead of trying to buy 100 raspberry pie for $100 can contact the retailer that sell to get and discount in bulk. The same thing would apply for the 
+In order to mass produce this project I would try and buy every thing in bulk. For example instead of trying to buy 100 raspberry pie for $100 can contact the retailer that sell to get and discount in bulk. The same thing would apply for the Acrylic Sheet buying them in bulk or multiple large sheets.
