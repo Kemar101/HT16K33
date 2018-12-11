@@ -49,8 +49,11 @@ how long it would for a person to re create
 | SCL | Pin-05(I2C SCL) |
 
 Attach [here](https://github.com/Kemar101/HT16K33/blob/master/kemar%20projectyy.fzz) is a link to the fritzing file needed to make the pcb board.
+
 <img src="https://raw.githubusercontent.com/Kemar101/HT16K33/master/Capture.JPG" width="500" />
+
 Once the pcb board is make we would need to solder the headers so that you have a clean connection
+
 <img src="https://raw.githubusercontent.com/Kemar101/HT16K33/master/sm1.jpg" width="500" />
 <img src="https://raw.githubusercontent.com/Kemar101/HT16K33/master/sm2.jpg" width="500" />
 
