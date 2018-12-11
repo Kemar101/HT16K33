@@ -4,7 +4,7 @@ Today is the PCB soldered milestone allot have changed. I was planning to use th
 # Current Progress:
 I am currently on track. Todays class I was able to get the PCB bored solderer to my header and set up on my pie.
 Thank fully vlad at the proto-type lab gave me headers so no extra purchase was needed
-<img src="https://raw.githubusercontent.com/Kemar101/HT16K33/master/20181106_132920.jpg" width="100" />
+<img src="https://raw.githubusercontent.com/Kemar101/HT16K33/master/spcb.JPG" width="100" />
 <img src="https://raw.githubusercontent.com/Kemar101/HT16K33/master/20181106_145005.jpg" width="100" />
 # Financial update:
 For expensives there was no extra purcheses I had already got all the parts. 
