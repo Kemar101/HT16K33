@@ -41,7 +41,7 @@ Will also need some header for your sensor and the raspberry pi[Adafruit GPIO He
 how long it would for a person to re create
 
 # Mechanical Assembly
-<img src="https://raw.githubusercontent.com/Kemar101/HT16K33/master/fullc.jpg" width="500" />
+<img src="https://raw.githubusercontent.com/Kemar101/HT16K33/master/fullc.jpg" width="300" />
 
 Attach [here](https://github.com/Kemar101/HT16K33/blob/master/kemar2.cdr) is a link to the CoralDraw file for the box
 
@@ -61,8 +61,8 @@ Attach [here](https://github.com/Kemar101/HT16K33/blob/master/kemar%20projectyy.
 
 Once the pcb board is make we would need to solder the headers so that you have a clean connection
 
-<img src="https://raw.githubusercontent.com/Kemar101/HT16K33/master/sm1.jpg" width="500" />
-<img src="https://raw.githubusercontent.com/Kemar101/HT16K33/master/sm2.jpg" width="500" />
+<img src="https://raw.githubusercontent.com/Kemar101/HT16K33/master/sm1.jpg" width="300" />
+<img src="https://raw.githubusercontent.com/Kemar101/HT16K33/master/sm2.jpg" width="300" />
 
 # Power Up
 After Setting up the pcb should look something like this
