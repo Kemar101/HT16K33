@@ -22,7 +22,7 @@ For the material you can buy the [Adafruit Small 1.2" 8x8 LED Matrix w/I2C Backp
 <img src="https://raw.githubusercontent.com/Kemar101/HT16K33/master/led.jpg" width="300" />
 
 We also purchase a 
-[CanaKit Raspberry Pi 3 B+ Starter Kit with 32GB Micro SD Cards and Premium Black Case](https://www.amazon.com/CanaKit-Raspberry-Starter-Premium-Black/dp/B07BCC8PK7/ref=sr_1_1?s=pc&ie=UTF8&qid=1544482698&sr=1-1) this came with a sd card that we use to add the os.
+[CanaKit Raspberry Pi 3 B+ Starter Kit with 32GB Micro SD Cards and Premium Black Case](https://www.amazon.com/CanaKit-Raspberry-Starter-Premium-Black/dp/B07BCC8PK7/ref=sr_1_1?s=pc&ie=UTF8&qid=1544482698&sr=1-1) this came with a sd card that we use to add the operating system.
 
 <img src="https://raw.githubusercontent.com/Kemar101/HT16K33/master/pie.jpg" width="300" />
 
