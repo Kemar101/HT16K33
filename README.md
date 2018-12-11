@@ -69,6 +69,8 @@ Once the pcb board is make we would need to solder the headers so that you have 
 <img src="https://raw.githubusercontent.com/Kemar101/HT16K33/master/sm1.jpg" width="300" />
 <img src="https://raw.githubusercontent.com/Kemar101/HT16K33/master/sm2.jpg" width="300" />
 
+note if you do not have a soldering kit you can find a soldering shop near by. If not you can buy a Soldering kit but that would incease your budget factoring the kits price.
+
 # Power Up
 After Setting up the pcb should look something like this
 
