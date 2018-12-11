@@ -40,7 +40,7 @@ how long it would for a person to re create
 # Mechanical Assembly
 <img src="https://raw.githubusercontent.com/Kemar101/HT16K33/master/fullc.jpg" width="500" />
 
-Attach [here](https://github.com/Kemar101/HT16K33/blob/master/kemar2.cdr) is a link to the CoralDraw
+Attach [here](https://github.com/Kemar101/HT16K33/blob/master/kemar2.cdr) is a link to the CoralDraw file for the box
 
 
 
