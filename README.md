@@ -27,7 +27,7 @@ We also purchase a
 <img src="https://raw.githubusercontent.com/Kemar101/HT16K33/master/pie.jpg" width="300" />
 
 Will also need some header for your sensor and the raspberry pi[Adafruit GPIO Header for Raspberry Pi A+/B+ - 2x20 Female Header [ADA2222]](https://www.amazon.com/Adafruit-GPIO-Header-Raspberry-Pi/dp/B00XW2NK1Y/ref=sr_1_10?ie=UTF8&qid=1544481444&sr=8-10&keywords=40+pin+header+raspberry+pi) and [header](https://www.amazon.ca/Gikfun-2-54mm-Stackable-Female-Arduino/dp/B0154KMHE2/ref=sr_1_4?ie=UTF8&qid=1544481861&sr=8-4&keywords=6+pin+header) for the HT16K33 sensor.
-Another component needed would be clear Acrylic sheet to make the case.[Johnson Industrial](http://www.johnstonplastics.com/toronto/)
+Another component needed would be clear Acrylic sheet to make the case. [Johnson Industrial](http://www.johnstonplastics.com/toronto/)
 is a good place to buy your Acrylic sheets from, they also do cutting.
 
 | Parts | Price|
