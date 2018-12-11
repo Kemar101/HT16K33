@@ -35,6 +35,7 @@ Will also need some header for your sensor and the raspberry pi[Adafruit GPIO He
 
 
 # Time Commitment
+how long it would for a person to re create
 
 # Mechanical Assembly
 <img src="https://raw.githubusercontent.com/Kemar101/HT16K33/master/fullc.jpg" width="500" />
@@ -94,4 +95,4 @@ The program should activate the LED’s and show a X with a frame on the LED mat
 <img src="https://raw.githubusercontent.com/Kemar101/HT16K33/master/display.jpg" width="500" />
 
 # Production Testing
-?
+if you were to make 100 
