@@ -13,7 +13,7 @@
 8. [Production Testing](#production-Testing)
 
 # Introduction
-This is a single interface board LED Display on a raspberry pi 3 that is accesed using vnc or hdmi with tv and keyboard. Would recommend the vnc this allow you to access the pi anywhere and on any pc. Here is a [Link for VNC setup](https://www.realvnc.com/en/connect/docs/get-connected.html) to establishing a direct connection over a local network (LAN or VPN). Also [Link for VNC Viewer](https://www.realvnc.com/en/connect/download/viewer/) that is needed for the setup. We solder a pcb board so that we avoid the hassle of wireing making the project more clean organize and portable. One software used was [Fritzing](http://fritzing.org/download/)for designing the pcb board. Along with [CorelDRAW](https://www.coreldraw.com/en/free-trials/?sourceid=cdgs2018-xx-ppc_brkws&x-vehicle=ppc_brkws&gclid=EAIaIQobChMIo4-G86WW3wIVCZNpCh32gAfJEAAYASABEgI-zfD_BwE) free 15day trial. This is used for our box case, can also use [autoCAD](https://www.autodesk.ca/en/products/autocad/free-trial) free 30 day trial. You will also need and operating system for the raspberry pi download [here](https://www.raspberrypi.org/downloads/raspbian/). To extract the image for the pi a recommended software is [Win32 Disk Imager](https://sourceforge.net/projects/win32diskimager/).Attach[here](https://www.raspberrypi.org/documentation/installation/installing-images/README.md) is the Installing operating system images guide for installing on a sd card.
+This is a single interface board LED Display on a raspberry pi 3 that is accesed using vnc or hdmi with tv and keyboard. Would recommend the vnc this allow you to access the pi anywhere and on any pc. Here is a [Link for VNC setup](https://www.realvnc.com/en/connect/docs/get-connected.html) to establishing a direct connection over a local network (LAN or VPN). Also [Link for VNC Viewer](https://www.realvnc.com/en/connect/download/viewer/) that is needed for the setup. We solder a pcb board so that we avoid the hassle of wireing making the project more clean organize and portable. One software used was [Fritzing](http://fritzing.org/download/)for designing the pcb board. Along with [CorelDRAW](https://www.coreldraw.com/en/free-trials/?sourceid=cdgs2018-xx-ppc_brkws&x-vehicle=ppc_brkws&gclid=EAIaIQobChMIo4-G86WW3wIVCZNpCh32gAfJEAAYASABEgI-zfD_BwE) free 15day trial. This is used for our box case, can also use [autoCAD](https://www.autodesk.ca/en/products/autocad/free-trial) free 30 day trial. You will also need and operating system for the raspberry pi download [here](https://www.raspberrypi.org/downloads/raspbian/). To extract the image for the pi a recommended software is [Win32 Disk Imager](https://sourceforge.net/projects/win32diskimager/). Attach[here](https://www.raspberrypi.org/documentation/installation/installing-images/README.md) is the Installing operating system images guide for installing on a sd card.
 
 # Bill of Materials and Budget
 For the material you can buy the [Adafruit Small 1.2" 8x8 LED Matrix w/I2C Backpack - Red](https://www.adafruit.com/product/1049) or the 
@@ -32,14 +32,15 @@ is a good place to buy your Acrylic sheets from, they also do cutting.
 
 | Parts | Price|
 | --- | --- |
-| LED | $9.99 |
-| Pi3| $79.99 |
-| Pi3 header| $5.73 |
-| Sensor header| $7.22 |
+| LED | $11.50 |
+| Pi3| $91.99 |
+| Pi3 header| $6.58 |
+| Sensor header| $8.30 |
 | Clear Acrylic 12"x24"| $7.18 |
 | Acrylic cutting at a dollar per minute x3| $5.25 |
-| Total | $115.36 |
+| Total | $130.79 |
 
+Note these prices doesn't not inculde shipping and handling, the price could increase drastically. If you have amazon prime shipping would be free.
 
 # Time Commitment
 The time it would take to recreate this project will vary. Ordering the parts can take days if not weeks. Also finding a store to a buy and cut the acrylic for you along with a store to make the pcb board. Considering you have all the parts needed along with your acrylic case cut and pcb board, this project can be made over a weekend.
