@@ -10,7 +10,7 @@
 8. [Production Testing](#production-Testing)
 
 # Introduction
-This is a single interface board on a raspberry pi 3 that is accesed using vnc or hdmi with tv and keyboard. Would reccomend the vnc this allow you to access the pi anywhere and on any pc. Here is a [Link for VNC setup](https://www.realvnc.com/en/connect/docs/get-connected.html) to establishing a direct connection over a local network (LAN or VPN). Also [Link for VNC Viewer](https://www.realvnc.com/en/connect/download/viewer/) that is needed for the setup. We solder a pcb board so that we avoid the hassle of wireing making the project more clean organize and portable. One software used was [Fritzing](http://fritzing.org/download/)for designing the pcb board. Along with [CorelDRAW](https://www.coreldraw.com/en/free-trials/?sourceid=cdgs2018-xx-ppc_brkws&x-vehicle=ppc_brkws&gclid=EAIaIQobChMIo4-G86WW3wIVCZNpCh32gAfJEAAYASABEgI-zfD_BwE) free 15day trial. This is used for our box case, can also use [autoCAD](https://www.autodesk.ca/en/products/autocad/free-trial) free 30 day trial.
+This is a single interface board on a raspberry pi 3 that is accesed using vnc or hdmi with tv and keyboard. Would recommend the vnc this allow you to access the pi anywhere and on any pc. Here is a [Link for VNC setup](https://www.realvnc.com/en/connect/docs/get-connected.html) to establishing a direct connection over a local network (LAN or VPN). Also [Link for VNC Viewer](https://www.realvnc.com/en/connect/download/viewer/) that is needed for the setup. We solder a pcb board so that we avoid the hassle of wireing making the project more clean organize and portable. One software used was [Fritzing](http://fritzing.org/download/)for designing the pcb board. Along with [CorelDRAW](https://www.coreldraw.com/en/free-trials/?sourceid=cdgs2018-xx-ppc_brkws&x-vehicle=ppc_brkws&gclid=EAIaIQobChMIo4-G86WW3wIVCZNpCh32gAfJEAAYASABEgI-zfD_BwE) free 15day trial. This is used for our box case, can also use [autoCAD](https://www.autodesk.ca/en/products/autocad/free-trial) free 30 day trial.
 
 # Bill of Materials and Budget
 For the material you can buy the [Adafruit Small 1.2" 8x8 LED Matrix w/I2C Backpack - Red](https://www.adafruit.com/product/1049) or the 
@@ -104,4 +104,4 @@ The program should activate the LED’s and show a X with a frame on the LED mat
 <img src="https://raw.githubusercontent.com/Kemar101/HT16K33/master/display.jpg" width="500" />
 
 # Production Testing
-if you were to make 100 
+In order to mass produce this project I would try and buy every thing in bulk. For example instead of trying to buy 100 raspberry pie for $100 can contact the retailer that sell to get and discount in bulk. The same thing would apply for the 
