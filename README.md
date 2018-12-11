@@ -47,7 +47,7 @@ The time it would take to recreate this project will vary. Ordering the parts ca
 # Mechanical Assembly
 <img src="https://raw.githubusercontent.com/Kemar101/HT16K33/master/fullc.jpg" width="300" />
 
-Attach [here](https://github.com/Kemar101/HT16K33/blob/master/kemar2.cdr) is a link to the CorelDraw file for the case
+Attach [here](https://github.com/Kemar101/HT16K33/blob/master/kemar2.cdr) is a link to the CorelDraw file for the case.
 After obtaining the corel file and finding a company to lazer cut assemblying the case is simple. The case on it own snaps into place and can be disassemble and reassemble eazy. The raspberry pi can sit in the case or can be screwed down at the bottom.
 
 
@@ -69,7 +69,7 @@ Once the pcb board is make we would need to solder the headers so that you have 
 <img src="https://raw.githubusercontent.com/Kemar101/HT16K33/master/sm1.jpg" width="300" />
 <img src="https://raw.githubusercontent.com/Kemar101/HT16K33/master/sm2.jpg" width="300" />
 
-note if you do not have a soldering kit you can find a soldering shop near by. If not you can buy a Soldering kit but that would incease your budget factoring the kits price.
+Note if you do not have a soldering kit you can find a soldering shop near by. If not you can buy a Soldering kit but that would incease your budget factoring the kits price.
 
 # Power Up
 After Setting up the pcb should look something like this
