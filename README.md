@@ -1,4 +1,7 @@
 # HT16K33
+
+<img src="https://raw.githubusercontent.com/Kemar101/HT16K33/master/nocaseled.JPG" width="300" />
+
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Bill of Materials/Budget](#bill-of-Materials-and-Budget)
