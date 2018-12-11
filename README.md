@@ -65,7 +65,7 @@ Attach [here](https://github.com/Kemar101/HT16K33/blob/master/kemar%20projectyy.
 
 <img src="https://raw.githubusercontent.com/Kemar101/HT16K33/master/Capture.JPG" width="500" />
 
-Once the pcb board is make we would need to solder the headers so that you have a clean connection
+Once the pcb board is make we would need to solder the headers so that you have a clean connection.
 
 <img src="https://raw.githubusercontent.com/Kemar101/HT16K33/master/sm1.jpg" width="300" />
 <img src="https://raw.githubusercontent.com/Kemar101/HT16K33/master/sm2.jpg" width="300" />
@@ -73,13 +73,13 @@ Once the pcb board is make we would need to solder the headers so that you have 
 Note if you do not have a soldering kit you can find a soldering shop near by. If not you can buy a Soldering kit but that would incease your budget factoring the kits price.
 
 # Power Up
-After Setting up the pcb should look something like this
+After Setting up the pcb should look something like this.
 
 <img src="https://raw.githubusercontent.com/Kemar101/HT16K33/master/spcb.JPG" width="500" />
 
 your going to connect to the pi and run the 
 Command sudo i2cdetect -y 1
-this shows the raspberry pi detect the address and eveything is working
+this shows the raspberry pi detect the address and eveything is working.
 
 <img src="https://raw.githubusercontent.com/Kemar101/HT16K33/master/i2cdetect.JPG" width="500" />
 
@@ -115,4 +115,4 @@ The program should activate the LED’s and show a X with a frame on the LED mat
 <img src="https://raw.githubusercontent.com/Kemar101/HT16K33/master/display.jpg" width="500" />
 
 # Production Testing
-In order to mass produce this project I would try and buy every thing in bulk. For example instead of trying to buy 100 raspberry pi for $100, i can contact the retailer that sell the pi to try and get a discount in bulk. The same thing would apply for the Acrylic Sheet, buying them in bulk or multiple large sheets. This would drastically reduce the price to mass produce, than buying them individually.
+In order to mass produce this project I would try and buy every thing in bulk. For example instead of trying to buy 100 raspberry pi for $100, i can contact the retailer that sell the pi to try and get a discount in bulk. The same thing would apply for the Acrylic Sheet, buying them in bulk or multiple large sheets. This would drastically reduce the price to mass produce, than buying them individually. For example contacting Adafruit and asking if they sell your sensor in bulk or Canakit if you can buy the raspberry pi in bulk.
