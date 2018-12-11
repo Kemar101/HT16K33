@@ -38,7 +38,7 @@ Will also need some header for your sensor and the raspberry pi[Adafruit GPIO He
 
 
 # Time Commitment
-how long it would for a person to re create
+The time it would take to recreate this project will vary. Ordering the parts can take days if not weeks. Also finding a store to a buy and cut the acrylic for you along with a store to make the pcb board. Considering you have all the parts needed along with your arylic case cut and pcb board, this project can be made over a weekend.
 
 # Mechanical Assembly
 <img src="https://raw.githubusercontent.com/Kemar101/HT16K33/master/fullc.jpg" width="300" />
